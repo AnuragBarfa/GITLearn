@@ -1,6 +1,6 @@
 #include<stdio.h>
 void doit(){
-	printf("did it");
+	printf("did it twice");
 }
 int main(){
 	printf("Hello World2!");
