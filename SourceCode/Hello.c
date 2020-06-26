@@ -1,4 +1,7 @@
 #include<stdio.h>
+void branchCheck(){
+	printf("yey");
+}
 void doit(){
 	printf("did it twice");
 }
